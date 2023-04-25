@@ -3,12 +3,12 @@
 body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
-  background-color: #f7f7f7;
+  background-color: rgb(247, 247, 247);
 }
 
 .container {
   margin: 0 auto;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   text-align: center;
   max-width: 40rem;
@@ -31,7 +31,7 @@ form input[type="text"] {
 
 form input[type="submit"] {
   background-color: blue;
-  color: #fff;
+  color: rgb(255, 255, 255);
   border: none;
   padding: 10px 20px;
   font-size: 17px;
